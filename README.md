@@ -7,9 +7,11 @@
 - [x] 충남외국어고등학교 졸업 (영어 전공, 일본어 부전공)
 
 
-### 💎 [FrontEnd Developer](https://soryeongk.github.io/)
+### 💎 FrontEnd Developer
 
 기획의 중심을 지킬 수 있는 단단한 개발자가 되고 싶습니다.
+
+**[Wanna check my Resume & PortFolio?](https://soryeongk.github.io/)**
 
 ### 🙌 Contact
 * soryeongk.kr@gmail.com
