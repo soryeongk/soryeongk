@@ -12,7 +12,7 @@
 
 기획의 중심을 지킬 수 있는 단단한 개발자가 되고 싶습니다.
 
-**[Wanna check my Resume & PortFolio?](https://soryeongk.github.io/)**
+**[Resume & PortFolio](https://soryeongk.github.io/)**
 
 ### 🙌 Contact
 * soryeongk.kr@gmail.com
