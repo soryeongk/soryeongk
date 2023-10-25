@@ -13,8 +13,6 @@
 
 기획의 중심을 지킬 수 있는 단단한 개발자가 되고 싶습니다.
 
-**[이력서 && 포트폴리오](https://soryeongk.github.io/)**
-
 ### 🙌 Contact
 * soryeongk.kr@gmail.com
 * [instagram | soryeongk](https://www.instagram.com/soryeongk)
